@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578417540398.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4229423129",
+    "id" : "86B4412E",
+    "lastKnownWriteTime" : 1578421059,
+    "last_content_update" : 1578421310085,
+    "path" : "~/GIS DataBase/GAsE2tookit/R/Run.R",
+    "project_path" : "R/Run.R",
+    "properties" : {
+        "cursorPosition" : "196,1",
+        "scrollLine" : "146"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578419391648.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "994217986",
+    "id" : "65F786C7",
+    "lastKnownWriteTime" : 1578421465,
+    "last_content_update" : 1578421465,
+    "path" : "~/GIS DataBase/GAsE2tookit/man/Open_epanet2toolkit.Rd",
+    "project_path" : "man/Open_epanet2toolkit.Rd",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : true,
+    "read_only_alternatives" : [
+        "R/Open.R"
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
